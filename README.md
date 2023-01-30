@@ -1,1 +1,2 @@
 # Blitzed
+Undetectable stub
